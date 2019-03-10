@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/ADSC/TableAccess/DataModel.h
+stdio.h
+-
+tchar.h
+-
+string
+-
+fstream
+-
+
+D:/University/ADSC/TableAccess/DataService.cpp
+iostream
+-
+vector
+-
+DataService.h
+D:/University/ADSC/TableAccess/DataService.h
+Person.h
+D:/University/ADSC/TableAccess/Person.h
+DataModel.h
+D:/University/ADSC/TableAccess/DataModel.h
+
+D:/University/ADSC/TableAccess/DataService.h
+stdio.h
+-
+tchar.h
+-
+string
+-
+fstream
+-
+
+D:/University/ADSC/TableAccess/Person.h
+
