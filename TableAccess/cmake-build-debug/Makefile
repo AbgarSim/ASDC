@@ -178,6 +178,33 @@ DataService.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\DataService.cpp.s
 .PHONY : DataService.cpp.s
 
+MainMenu.obj: MainMenu.cpp.obj
+
+.PHONY : MainMenu.obj
+
+# target to build an object file
+MainMenu.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.obj
+.PHONY : MainMenu.cpp.obj
+
+MainMenu.i: MainMenu.cpp.i
+
+.PHONY : MainMenu.i
+
+# target to preprocess a source file
+MainMenu.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.i
+.PHONY : MainMenu.cpp.i
+
+MainMenu.s: MainMenu.cpp.s
+
+.PHONY : MainMenu.s
+
+# target to generate assembly for a file
+MainMenu.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.s
+.PHONY : MainMenu.cpp.s
+
 Person.obj: Person.cpp.obj
 
 .PHONY : Person.obj
@@ -247,6 +274,9 @@ help:
 	@echo ... DataService.obj
 	@echo ... DataService.i
 	@echo ... DataService.s
+	@echo ... MainMenu.obj
+	@echo ... MainMenu.i
+	@echo ... MainMenu.s
 	@echo ... Person.obj
 	@echo ... Person.i
 	@echo ... Person.s

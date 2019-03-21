@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "D:/University/ADSC/TableAccess/DataModel.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
   "D:/University/ADSC/TableAccess/DataService.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj"
+  "D:/University/ADSC/TableAccess/MainMenu.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/MainMenu.cpp.obj"
   "D:/University/ADSC/TableAccess/Person.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/Person.cpp.obj"
   "D:/University/ADSC/TableAccess/main.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/main.cpp.obj"
   )
