@@ -84,6 +84,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/University/ADSC/TableAccess/BubbleSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/BubbleSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/DataModel.cpp">
 			<Option target="TableAccess"/>
 		</Unit>
@@ -94,18 +100,6 @@
 			<Option target="TableAccess"/>
 		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/DataService.h">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/MainMenu.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/MainMenu.h">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/Person.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/Person.h">
 			<Option target="TableAccess"/>
 		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/main.cpp">

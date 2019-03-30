@@ -4,10 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/University/ADSC/TableAccess/BubbleSort.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
   "D:/University/ADSC/TableAccess/DataModel.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
   "D:/University/ADSC/TableAccess/DataService.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj"
-  "D:/University/ADSC/TableAccess/MainMenu.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/MainMenu.cpp.obj"
-  "D:/University/ADSC/TableAccess/Person.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/Person.cpp.obj"
   "D:/University/ADSC/TableAccess/main.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

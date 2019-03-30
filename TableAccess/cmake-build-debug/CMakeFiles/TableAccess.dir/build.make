@@ -77,28 +77,9 @@ CMakeFiles\TableAccess.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\main.cpp.s /c D:\University\ADSC\TableAccess\main.cpp
 <<
 
-CMakeFiles\TableAccess.dir\Person.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\Person.cpp.obj: ..\Person.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TableAccess.dir/Person.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\Person.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\Person.cpp
-<<
-
-CMakeFiles\TableAccess.dir\Person.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/Person.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\Person.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\Person.cpp
-<<
-
-CMakeFiles\TableAccess.dir\Person.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/Person.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\Person.cpp.s /c D:\University\ADSC\TableAccess\Person.cpp
-<<
-
 CMakeFiles\TableAccess.dir\DataService.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
 CMakeFiles\TableAccess.dir\DataService.cpp.obj: ..\DataService.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TableAccess.dir/DataService.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TableAccess.dir/DataService.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\DataService.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\DataService.cpp
 <<
@@ -117,7 +98,7 @@ CMakeFiles\TableAccess.dir\DataService.cpp.s: cmake_force
 
 CMakeFiles\TableAccess.dir\DataModel.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
 CMakeFiles\TableAccess.dir\DataModel.cpp.obj: ..\DataModel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\DataModel.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\DataModel.cpp
 <<
@@ -134,44 +115,42 @@ CMakeFiles\TableAccess.dir\DataModel.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\DataModel.cpp.s /c D:\University\ADSC\TableAccess\DataModel.cpp
 <<
 
-CMakeFiles\TableAccess.dir\MainMenu.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\MainMenu.cpp.obj: ..\MainMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TableAccess.dir/MainMenu.cpp.obj"
+CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj: ..\BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\MainMenu.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\MainMenu.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\BubbleSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\BubbleSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\MainMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/MainMenu.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\MainMenu.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\MainMenu.cpp
+CMakeFiles\TableAccess.dir\BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/BubbleSort.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\BubbleSort.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\BubbleSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\MainMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/MainMenu.cpp.s"
+CMakeFiles\TableAccess.dir\BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/BubbleSort.cpp.s"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\MainMenu.cpp.s /c D:\University\ADSC\TableAccess\MainMenu.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\BubbleSort.cpp.s /c D:\University\ADSC\TableAccess\BubbleSort.cpp
 <<
 
 # Object files for target TableAccess
 TableAccess_OBJECTS = \
 "CMakeFiles\TableAccess.dir\main.cpp.obj" \
-"CMakeFiles\TableAccess.dir\Person.cpp.obj" \
 "CMakeFiles\TableAccess.dir\DataService.cpp.obj" \
 "CMakeFiles\TableAccess.dir\DataModel.cpp.obj" \
-"CMakeFiles\TableAccess.dir\MainMenu.cpp.obj"
+"CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj"
 
 # External object files for target TableAccess
 TableAccess_EXTERNAL_OBJECTS =
 
 TableAccess.exe: CMakeFiles\TableAccess.dir\main.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\Person.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataService.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataModel.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\MainMenu.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\build.make
 TableAccess.exe: CMakeFiles\TableAccess.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable TableAccess.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable TableAccess.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\TableAccess.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\TableAccess.dir\objects1.rsp @<<
  /out:TableAccess.exe /implib:TableAccess.lib /pdb:D:\University\ADSC\TableAccess\cmake-build-debug\TableAccess.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

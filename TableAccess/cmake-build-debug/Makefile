@@ -124,6 +124,33 @@ TableAccess\fast:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\build
 .PHONY : TableAccess\fast
 
+BubbleSort.obj: BubbleSort.cpp.obj
+
+.PHONY : BubbleSort.obj
+
+# target to build an object file
+BubbleSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj
+.PHONY : BubbleSort.cpp.obj
+
+BubbleSort.i: BubbleSort.cpp.i
+
+.PHONY : BubbleSort.i
+
+# target to preprocess a source file
+BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.i
+.PHONY : BubbleSort.cpp.i
+
+BubbleSort.s: BubbleSort.cpp.s
+
+.PHONY : BubbleSort.s
+
+# target to generate assembly for a file
+BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.s
+.PHONY : BubbleSort.cpp.s
+
 DataModel.obj: DataModel.cpp.obj
 
 .PHONY : DataModel.obj
@@ -178,60 +205,6 @@ DataService.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\DataService.cpp.s
 .PHONY : DataService.cpp.s
 
-MainMenu.obj: MainMenu.cpp.obj
-
-.PHONY : MainMenu.obj
-
-# target to build an object file
-MainMenu.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.obj
-.PHONY : MainMenu.cpp.obj
-
-MainMenu.i: MainMenu.cpp.i
-
-.PHONY : MainMenu.i
-
-# target to preprocess a source file
-MainMenu.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.i
-.PHONY : MainMenu.cpp.i
-
-MainMenu.s: MainMenu.cpp.s
-
-.PHONY : MainMenu.s
-
-# target to generate assembly for a file
-MainMenu.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\MainMenu.cpp.s
-.PHONY : MainMenu.cpp.s
-
-Person.obj: Person.cpp.obj
-
-.PHONY : Person.obj
-
-# target to build an object file
-Person.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\Person.cpp.obj
-.PHONY : Person.cpp.obj
-
-Person.i: Person.cpp.i
-
-.PHONY : Person.i
-
-# target to preprocess a source file
-Person.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\Person.cpp.i
-.PHONY : Person.cpp.i
-
-Person.s: Person.cpp.s
-
-.PHONY : Person.s
-
-# target to generate assembly for a file
-Person.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\Person.cpp.s
-.PHONY : Person.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -268,18 +241,15 @@ help:
 	@echo ... rebuild_cache
 	@echo ... TableAccess
 	@echo ... edit_cache
+	@echo ... BubbleSort.obj
+	@echo ... BubbleSort.i
+	@echo ... BubbleSort.s
 	@echo ... DataModel.obj
 	@echo ... DataModel.i
 	@echo ... DataModel.s
 	@echo ... DataService.obj
 	@echo ... DataService.i
 	@echo ... DataService.s
-	@echo ... MainMenu.obj
-	@echo ... MainMenu.i
-	@echo ... MainMenu.s
-	@echo ... Person.obj
-	@echo ... Person.i
-	@echo ... Person.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

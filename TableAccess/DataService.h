@@ -2,16 +2,15 @@
 // Created by user on 09.03.2019.
 //
 
-#ifndef TABLEACCESS_DATASERVICE_H
-#define TABLEACCESS_DATASERVICE_H
+#pragma once
 
 #include <stdio.h>
 #include <tchar.h>
 #include <string>
 #include <fstream>
+#include <vector>
 #include "DataModel.h"
 
-using namespace std;
 
 class DataService {
 public:
@@ -19,15 +18,17 @@ public:
     DataService();
     ~DataService();
 
-    ifstream inFile;
-    string fileName;
-    vector<DataModel> records;
+    std::ifstream inFile;
+    std::string fileName;
+
+    std::vector<DataModel> people;
+    DataModel* dataArray[5];
     int recordCount;
 
+
     void readDataFromFile();
-    void countRecords();
-    void resetIfStreamToBegining();
+    void printData();
+
 };
 
 
-#endif //TABLEACCESS_DATASERVICE_H

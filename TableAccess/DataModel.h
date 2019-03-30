@@ -9,16 +9,16 @@
 #include <tchar.h>
 #include <string>
 #include <fstream>
-using namespace std;
+
 
 class DataModel {
 public:
-    DataModel(int key, string name, string surname, int age, char gender, float grade);
+    DataModel(int key, std::string name, std::string surname, int age, char gender, float grade);
     ~DataModel();
 
     int key;
-    string name;
-    string surname;
+    std::string name;
+    std::string surname;
     int age;
     char gender;
     float grade;

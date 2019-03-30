@@ -4,7 +4,7 @@
 
 #include "DataModel.h"
 
-DataModel::DataModel(int key, string name, string surname, int age, char gender, float grade) {
+DataModel::DataModel(int key, std::string name, std::string surname, int age, char gender, float grade) {
     this->key = key;
     this->name = name;
     this->surname = surname;
