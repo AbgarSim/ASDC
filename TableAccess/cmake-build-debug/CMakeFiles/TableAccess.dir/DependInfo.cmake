@@ -7,6 +7,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/University/ADSC/TableAccess/BubbleSort.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
   "D:/University/ADSC/TableAccess/DataModel.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
   "D:/University/ADSC/TableAccess/DataService.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj"
+  "D:/University/ADSC/TableAccess/InsertionSort.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/InsertionSort.cpp.obj"
+  "D:/University/ADSC/TableAccess/QuickSort.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/QuickSort.cpp.obj"
+  "D:/University/ADSC/TableAccess/SelectionSort.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/SelectionSort.cpp.obj"
   "D:/University/ADSC/TableAccess/main.cpp" "D:/University/ADSC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

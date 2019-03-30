@@ -2,21 +2,17 @@
 // Created by user on 30.03.2019.
 //
 
-#ifndef TABLEACCESS_BUBBLESORT_H
-#define TABLEACCESS_BUBBLESORT_H
-
-
 #include "DataModel.h"
 #include "DataService.h"
 #include <chrono>
+#include <iostream>
 
-class BubbleSort{
+class QuickSort {
 public:
-    DataModel* dataArray[5];
-
     void sort(DataService *service);
+
+private:
+    void quickSort(DataModel* array[], int lowerTreshHold, int higherTreshHold);
 
 };
 
-
-#endif //TABLEACCESS_BUBBLESORT_H

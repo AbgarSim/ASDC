@@ -205,6 +205,87 @@ DataService.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\DataService.cpp.s
 .PHONY : DataService.cpp.s
 
+InsertionSort.obj: InsertionSort.cpp.obj
+
+.PHONY : InsertionSort.obj
+
+# target to build an object file
+InsertionSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj
+.PHONY : InsertionSort.cpp.obj
+
+InsertionSort.i: InsertionSort.cpp.i
+
+.PHONY : InsertionSort.i
+
+# target to preprocess a source file
+InsertionSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.i
+.PHONY : InsertionSort.cpp.i
+
+InsertionSort.s: InsertionSort.cpp.s
+
+.PHONY : InsertionSort.s
+
+# target to generate assembly for a file
+InsertionSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.s
+.PHONY : InsertionSort.cpp.s
+
+QuickSort.obj: QuickSort.cpp.obj
+
+.PHONY : QuickSort.obj
+
+# target to build an object file
+QuickSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.obj
+.PHONY : QuickSort.cpp.obj
+
+QuickSort.i: QuickSort.cpp.i
+
+.PHONY : QuickSort.i
+
+# target to preprocess a source file
+QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.i
+.PHONY : QuickSort.cpp.i
+
+QuickSort.s: QuickSort.cpp.s
+
+.PHONY : QuickSort.s
+
+# target to generate assembly for a file
+QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.s
+.PHONY : QuickSort.cpp.s
+
+SelectionSort.obj: SelectionSort.cpp.obj
+
+.PHONY : SelectionSort.obj
+
+# target to build an object file
+SelectionSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj
+.PHONY : SelectionSort.cpp.obj
+
+SelectionSort.i: SelectionSort.cpp.i
+
+.PHONY : SelectionSort.i
+
+# target to preprocess a source file
+SelectionSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.i
+.PHONY : SelectionSort.cpp.i
+
+SelectionSort.s: SelectionSort.cpp.s
+
+.PHONY : SelectionSort.s
+
+# target to generate assembly for a file
+SelectionSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.s
+.PHONY : SelectionSort.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -250,6 +331,15 @@ help:
 	@echo ... DataService.obj
 	@echo ... DataService.i
 	@echo ... DataService.s
+	@echo ... InsertionSort.obj
+	@echo ... InsertionSort.i
+	@echo ... InsertionSort.s
+	@echo ... QuickSort.obj
+	@echo ... QuickSort.i
+	@echo ... QuickSort.s
+	@echo ... SelectionSort.obj
+	@echo ... SelectionSort.i
+	@echo ... SelectionSort.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

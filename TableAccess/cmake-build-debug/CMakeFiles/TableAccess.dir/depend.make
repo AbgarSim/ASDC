@@ -13,8 +13,26 @@ CMakeFiles\TableAccess.dir\DataService.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\DataService.cpp.obj: ..\DataService.cpp
 CMakeFiles\TableAccess.dir\DataService.cpp.obj: ..\DataService.h
 
+CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: ..\InsertionSort.cpp
+CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: ..\InsertionSort.h
+
+CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: ..\QuickSort.cpp
+CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: ..\QuickSort.h
+
+CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: ..\SelectionSort.cpp
+CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: ..\SelectionSort.h
+
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\BubbleSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\InsertionSort.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\QuickSort.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\SelectionSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\main.cpp
 

@@ -102,6 +102,24 @@
 		<Unit filename="D:/University/ADSC/TableAccess/DataService.h">
 			<Option target="TableAccess"/>
 		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/InsertionSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/InsertionSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/QuickSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/QuickSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/SelectionSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/SelectionSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/main.cpp">
 			<Option target="TableAccess"/>
 		</Unit>

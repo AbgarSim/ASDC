@@ -13,8 +13,26 @@ CMakeFiles/TableAccess.dir/DataService.cpp.obj
  D:/University/ADSC/TableAccess/DataModel.h
  D:/University/ADSC/TableAccess/DataService.cpp
  D:/University/ADSC/TableAccess/DataService.h
+CMakeFiles/TableAccess.dir/InsertionSort.cpp.obj
+ D:/University/ADSC/TableAccess/DataModel.h
+ D:/University/ADSC/TableAccess/DataService.h
+ D:/University/ADSC/TableAccess/InsertionSort.cpp
+ D:/University/ADSC/TableAccess/InsertionSort.h
+CMakeFiles/TableAccess.dir/QuickSort.cpp.obj
+ D:/University/ADSC/TableAccess/DataModel.h
+ D:/University/ADSC/TableAccess/DataService.h
+ D:/University/ADSC/TableAccess/QuickSort.cpp
+ D:/University/ADSC/TableAccess/QuickSort.h
+CMakeFiles/TableAccess.dir/SelectionSort.cpp.obj
+ D:/University/ADSC/TableAccess/DataModel.h
+ D:/University/ADSC/TableAccess/DataService.h
+ D:/University/ADSC/TableAccess/SelectionSort.cpp
+ D:/University/ADSC/TableAccess/SelectionSort.h
 CMakeFiles/TableAccess.dir/main.cpp.obj
  D:/University/ADSC/TableAccess/BubbleSort.h
  D:/University/ADSC/TableAccess/DataModel.h
  D:/University/ADSC/TableAccess/DataService.h
+ D:/University/ADSC/TableAccess/InsertionSort.h
+ D:/University/ADSC/TableAccess/QuickSort.h
+ D:/University/ADSC/TableAccess/SelectionSort.h
  D:/University/ADSC/TableAccess/main.cpp
