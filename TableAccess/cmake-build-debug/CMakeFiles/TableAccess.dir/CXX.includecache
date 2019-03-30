@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-D:/University/ADSC/TableAccess/BubbleSort.h
-DataModel.h
-D:/University/ADSC/TableAccess/DataModel.h
-DataService.h
-D:/University/ADSC/TableAccess/DataService.h
-chrono
--
-
 D:/University/ADSC/TableAccess/DataModel.h
 stdio.h
 -
@@ -38,45 +30,17 @@ vector
 DataModel.h
 D:/University/ADSC/TableAccess/DataModel.h
 
-D:/University/ADSC/TableAccess/InsertionSort.h
-chrono
--
-DataService.h
-D:/University/ADSC/TableAccess/DataService.h
+D:/University/ADSC/TableAccess/searchingAlgorithms/SequentialSearch.cpp
+SequentialSearch.h
+D:/University/ADSC/TableAccess/searchingAlgorithms/SequentialSearch.h
 
-D:/University/ADSC/TableAccess/QuickSort.cpp
-QuickSort.h
-D:/University/ADSC/TableAccess/QuickSort.h
-
-D:/University/ADSC/TableAccess/QuickSort.h
-DataModel.h
+D:/University/ADSC/TableAccess/searchingAlgorithms/SequentialSearch.h
+../DataModel.h
 D:/University/ADSC/TableAccess/DataModel.h
-DataService.h
+../DataService.h
 D:/University/ADSC/TableAccess/DataService.h
 chrono
 -
 iostream
 -
-
-D:/University/ADSC/TableAccess/SelectionSort.h
-DataModel.h
-D:/University/ADSC/TableAccess/DataModel.h
-DataService.h
-D:/University/ADSC/TableAccess/DataService.h
-chrono
--
-
-D:/University/ADSC/TableAccess/main.cpp
-iostream
--
-DataService.h
-D:/University/ADSC/TableAccess/DataService.h
-BubbleSort.h
-D:/University/ADSC/TableAccess/BubbleSort.h
-SelectionSort.h
-D:/University/ADSC/TableAccess/SelectionSort.h
-InsertionSort.h
-D:/University/ADSC/TableAccess/InsertionSort.h
-QuickSort.h
-D:/University/ADSC/TableAccess/QuickSort.h
 

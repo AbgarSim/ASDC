@@ -205,87 +205,6 @@ DataService.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\DataService.cpp.s
 .PHONY : DataService.cpp.s
 
-InsertionSort.obj: InsertionSort.cpp.obj
-
-.PHONY : InsertionSort.obj
-
-# target to build an object file
-InsertionSort.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj
-.PHONY : InsertionSort.cpp.obj
-
-InsertionSort.i: InsertionSort.cpp.i
-
-.PHONY : InsertionSort.i
-
-# target to preprocess a source file
-InsertionSort.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.i
-.PHONY : InsertionSort.cpp.i
-
-InsertionSort.s: InsertionSort.cpp.s
-
-.PHONY : InsertionSort.s
-
-# target to generate assembly for a file
-InsertionSort.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\InsertionSort.cpp.s
-.PHONY : InsertionSort.cpp.s
-
-QuickSort.obj: QuickSort.cpp.obj
-
-.PHONY : QuickSort.obj
-
-# target to build an object file
-QuickSort.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.obj
-.PHONY : QuickSort.cpp.obj
-
-QuickSort.i: QuickSort.cpp.i
-
-.PHONY : QuickSort.i
-
-# target to preprocess a source file
-QuickSort.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.i
-.PHONY : QuickSort.cpp.i
-
-QuickSort.s: QuickSort.cpp.s
-
-.PHONY : QuickSort.s
-
-# target to generate assembly for a file
-QuickSort.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\QuickSort.cpp.s
-.PHONY : QuickSort.cpp.s
-
-SelectionSort.obj: SelectionSort.cpp.obj
-
-.PHONY : SelectionSort.obj
-
-# target to build an object file
-SelectionSort.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj
-.PHONY : SelectionSort.cpp.obj
-
-SelectionSort.i: SelectionSort.cpp.i
-
-.PHONY : SelectionSort.i
-
-# target to preprocess a source file
-SelectionSort.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.i
-.PHONY : SelectionSort.cpp.i
-
-SelectionSort.s: SelectionSort.cpp.s
-
-.PHONY : SelectionSort.s
-
-# target to generate assembly for a file
-SelectionSort.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\SelectionSort.cpp.s
-.PHONY : SelectionSort.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -313,6 +232,114 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+searchingAlgorithms\SequentialSearch.obj: searchingAlgorithms\SequentialSearch.cpp.obj
+
+.PHONY : searchingAlgorithms\SequentialSearch.obj
+
+# target to build an object file
+searchingAlgorithms\SequentialSearch.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj
+.PHONY : searchingAlgorithms\SequentialSearch.cpp.obj
+
+searchingAlgorithms\SequentialSearch.i: searchingAlgorithms\SequentialSearch.cpp.i
+
+.PHONY : searchingAlgorithms\SequentialSearch.i
+
+# target to preprocess a source file
+searchingAlgorithms\SequentialSearch.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.i
+.PHONY : searchingAlgorithms\SequentialSearch.cpp.i
+
+searchingAlgorithms\SequentialSearch.s: searchingAlgorithms\SequentialSearch.cpp.s
+
+.PHONY : searchingAlgorithms\SequentialSearch.s
+
+# target to generate assembly for a file
+searchingAlgorithms\SequentialSearch.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.s
+.PHONY : searchingAlgorithms\SequentialSearch.cpp.s
+
+sortingAlgorithms\InsertionSort.obj: sortingAlgorithms\InsertionSort.cpp.obj
+
+.PHONY : sortingAlgorithms\InsertionSort.obj
+
+# target to build an object file
+sortingAlgorithms\InsertionSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj
+.PHONY : sortingAlgorithms\InsertionSort.cpp.obj
+
+sortingAlgorithms\InsertionSort.i: sortingAlgorithms\InsertionSort.cpp.i
+
+.PHONY : sortingAlgorithms\InsertionSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\InsertionSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.i
+.PHONY : sortingAlgorithms\InsertionSort.cpp.i
+
+sortingAlgorithms\InsertionSort.s: sortingAlgorithms\InsertionSort.cpp.s
+
+.PHONY : sortingAlgorithms\InsertionSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\InsertionSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.s
+.PHONY : sortingAlgorithms\InsertionSort.cpp.s
+
+sortingAlgorithms\QuickSort.obj: sortingAlgorithms\QuickSort.cpp.obj
+
+.PHONY : sortingAlgorithms\QuickSort.obj
+
+# target to build an object file
+sortingAlgorithms\QuickSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj
+.PHONY : sortingAlgorithms\QuickSort.cpp.obj
+
+sortingAlgorithms\QuickSort.i: sortingAlgorithms\QuickSort.cpp.i
+
+.PHONY : sortingAlgorithms\QuickSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.i
+.PHONY : sortingAlgorithms\QuickSort.cpp.i
+
+sortingAlgorithms\QuickSort.s: sortingAlgorithms\QuickSort.cpp.s
+
+.PHONY : sortingAlgorithms\QuickSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.s
+.PHONY : sortingAlgorithms\QuickSort.cpp.s
+
+sortingAlgorithms\SelectionSort.obj: sortingAlgorithms\SelectionSort.cpp.obj
+
+.PHONY : sortingAlgorithms\SelectionSort.obj
+
+# target to build an object file
+sortingAlgorithms\SelectionSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj
+.PHONY : sortingAlgorithms\SelectionSort.cpp.obj
+
+sortingAlgorithms\SelectionSort.i: sortingAlgorithms\SelectionSort.cpp.i
+
+.PHONY : sortingAlgorithms\SelectionSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\SelectionSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.i
+.PHONY : sortingAlgorithms\SelectionSort.cpp.i
+
+sortingAlgorithms\SelectionSort.s: sortingAlgorithms\SelectionSort.cpp.s
+
+.PHONY : sortingAlgorithms\SelectionSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\SelectionSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.s
+.PHONY : sortingAlgorithms\SelectionSort.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -331,18 +358,21 @@ help:
 	@echo ... DataService.obj
 	@echo ... DataService.i
 	@echo ... DataService.s
-	@echo ... InsertionSort.obj
-	@echo ... InsertionSort.i
-	@echo ... InsertionSort.s
-	@echo ... QuickSort.obj
-	@echo ... QuickSort.i
-	@echo ... QuickSort.s
-	@echo ... SelectionSort.obj
-	@echo ... SelectionSort.i
-	@echo ... SelectionSort.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... searchingAlgorithms/SequentialSearch.obj
+	@echo ... searchingAlgorithms/SequentialSearch.i
+	@echo ... searchingAlgorithms/SequentialSearch.s
+	@echo ... sortingAlgorithms/InsertionSort.obj
+	@echo ... sortingAlgorithms/InsertionSort.i
+	@echo ... sortingAlgorithms/InsertionSort.s
+	@echo ... sortingAlgorithms/QuickSort.obj
+	@echo ... sortingAlgorithms/QuickSort.i
+	@echo ... sortingAlgorithms/QuickSort.s
+	@echo ... sortingAlgorithms/SelectionSort.obj
+	@echo ... sortingAlgorithms/SelectionSort.i
+	@echo ... sortingAlgorithms/SelectionSort.s
 .PHONY : help
 
 

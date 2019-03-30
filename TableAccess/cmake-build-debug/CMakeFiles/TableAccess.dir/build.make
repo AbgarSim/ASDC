@@ -134,61 +134,80 @@ CMakeFiles\TableAccess.dir\BubbleSort.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\BubbleSort.cpp.s /c D:\University\ADSC\TableAccess\BubbleSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj: ..\SelectionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TableAccess.dir/SelectionSort.cpp.obj"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: ..\sortingAlgorithms\SelectionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TableAccess.dir/sortingAlgorithms/SelectionSort.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\SelectionSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\SelectionSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\sortingAlgorithms\SelectionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\SelectionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/SelectionSort.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\SelectionSort.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\SelectionSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/sortingAlgorithms/SelectionSort.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\sortingAlgorithms\SelectionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\SelectionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/SelectionSort.cpp.s"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/sortingAlgorithms/SelectionSort.cpp.s"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\SelectionSort.cpp.s /c D:\University\ADSC\TableAccess\SelectionSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.s /c D:\University\ADSC\TableAccess\sortingAlgorithms\SelectionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj: ..\InsertionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TableAccess.dir/InsertionSort.cpp.obj"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj: ..\sortingAlgorithms\InsertionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TableAccess.dir/sortingAlgorithms/InsertionSort.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\InsertionSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\InsertionSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\sortingAlgorithms\InsertionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\InsertionSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/InsertionSort.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\InsertionSort.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\InsertionSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/sortingAlgorithms/InsertionSort.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\sortingAlgorithms\InsertionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\InsertionSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/InsertionSort.cpp.s"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/sortingAlgorithms/InsertionSort.cpp.s"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\InsertionSort.cpp.s /c D:\University\ADSC\TableAccess\InsertionSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.s /c D:\University\ADSC\TableAccess\sortingAlgorithms\InsertionSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\QuickSort.cpp.obj: ..\QuickSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TableAccess.dir/QuickSort.cpp.obj"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj: ..\sortingAlgorithms\QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TableAccess.dir/sortingAlgorithms/QuickSort.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\QuickSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\QuickSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\sortingAlgorithms\QuickSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\QuickSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/QuickSort.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\QuickSort.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\QuickSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/sortingAlgorithms/QuickSort.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\sortingAlgorithms\QuickSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\QuickSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/QuickSort.cpp.s"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/sortingAlgorithms/QuickSort.cpp.s"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\QuickSort.cpp.s /c D:\University\ADSC\TableAccess\QuickSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.s /c D:\University\ADSC\TableAccess\sortingAlgorithms\QuickSort.cpp
+<<
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\searchingAlgorithms\SequentialSearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/TableAccess.dir/searchingAlgorithms/SequentialSearch.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ADSC\TableAccess\searchingAlgorithms\SequentialSearch.cpp
+<<
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/searchingAlgorithms/SequentialSearch.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ADSC\TableAccess\searchingAlgorithms\SequentialSearch.cpp
+<<
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/searchingAlgorithms/SequentialSearch.cpp.s"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.s /c D:\University\ADSC\TableAccess\searchingAlgorithms\SequentialSearch.cpp
 <<
 
 # Object files for target TableAccess
@@ -197,9 +216,10 @@ TableAccess_OBJECTS = \
 "CMakeFiles\TableAccess.dir\DataService.cpp.obj" \
 "CMakeFiles\TableAccess.dir\DataModel.cpp.obj" \
 "CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj" \
-"CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj" \
-"CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj" \
-"CMakeFiles\TableAccess.dir\QuickSort.cpp.obj"
+"CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj" \
+"CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj" \
+"CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj" \
+"CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj"
 
 # External object files for target TableAccess
 TableAccess_EXTERNAL_OBJECTS =
@@ -208,12 +228,13 @@ TableAccess.exe: CMakeFiles\TableAccess.dir\main.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataService.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataModel.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\SelectionSort.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\InsertionSort.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\QuickSort.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\build.make
 TableAccess.exe: CMakeFiles\TableAccess.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable TableAccess.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable TableAccess.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\TableAccess.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\TableAccess.dir\objects1.rsp @<<
  /out:TableAccess.exe /implib:TableAccess.lib /pdb:D:\University\ADSC\TableAccess\cmake-build-debug\TableAccess.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

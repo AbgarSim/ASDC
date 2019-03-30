@@ -34,6 +34,8 @@
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
+					<Add directory="D:/University/ADSC/TableAccess/searchingAlgorithms"/>
+					<Add directory="D:/University/ADSC/TableAccess/,&quot;D:/University/ADSC/TableAccess/sortingAlgorithms&quot;"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
@@ -57,6 +59,8 @@
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
+					<Add directory="D:/University/ADSC/TableAccess/searchingAlgorithms"/>
+					<Add directory="D:/University/ADSC/TableAccess/,&quot;D:/University/ADSC/TableAccess/sortingAlgorithms&quot;"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
 					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include"/>
 					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
@@ -102,25 +106,31 @@
 		<Unit filename="D:/University/ADSC/TableAccess/DataService.h">
 			<Option target="TableAccess"/>
 		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/InsertionSort.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/InsertionSort.h">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/QuickSort.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/QuickSort.h">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/SelectionSort.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ADSC/TableAccess/SelectionSort.h">
-			<Option target="TableAccess"/>
-		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/main.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/searchingAlgorithms/SequentialSearch.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/searchingAlgorithms/SequentialSearch.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/InsertionSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/InsertionSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/QuickSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/QuickSort.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/SelectionSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ADSC/TableAccess/sortingAlgorithms/SelectionSort.h">
 			<Option target="TableAccess"/>
 		</Unit>
 		<Unit filename="D:/University/ADSC/TableAccess/CMakeLists.txt">

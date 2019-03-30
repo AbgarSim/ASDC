@@ -1,11 +1,13 @@
 #include <iostream>
+#include <SequentialSearch.h>
 #include "DataService.h"
 #include "BubbleSort.h"
-#include "SelectionSort.h"
-#include "InsertionSort.h"
-#include "QuickSort.h"
+#include "sortingAlgorithms/SelectionSort.h"
+#include "sortingAlgorithms/InsertionSort.h"
+#include "sortingAlgorithms/QuickSort.h"
 
 void sortData(DataService *service, int method);
+void searchData(DataService *service, int method, int key);
 
 int main() {
 
@@ -18,7 +20,7 @@ int main() {
     int sort = 0;
 
     while (true) {
-        std::cout << "Choose 1 to sort or 2 not to sort";
+        std::cout << "Choose 1 to sort or 2 not to sort\n";
         std::cin >> sort;
         if (sort == 1 || sort == 2)
             break;
@@ -40,9 +42,25 @@ int main() {
         sortData(service, sortingAlg);
 
         service->printData();
-    } else {
-
     }
+
+
+    int searchMethod = 0;
+    while (true) {
+        std::cout << "Choose search method" << std::endl;
+        std::cout << "1.Sequential search\n";
+        std::cin >> searchMethod;
+        if (searchMethod == 1)
+            break;
+    }
+
+
+    int key;
+    std::cout << "Input search key\n";
+    std::cin >> key;
+
+    searchData(service, searchMethod, key);
+
     delete service;
 
     return 0;
@@ -53,17 +71,35 @@ void sortData(DataService *service, int method) {
         auto sortingAlgorithm = new BubbleSort;
         sortingAlgorithm->sort(service); //Sort
         delete sortingAlgorithm;         //Dispose
-    } else if(method == 2){
+    } else if (method == 2) {
         auto sortingAlgorithm = new SelectionSort;
         sortingAlgorithm->sort(service); //Sort
         delete sortingAlgorithm;         //Dispose
-    } else if(method == 3){
+    } else if (method == 3) {
         auto sortingAlgorithm = new InsertionSort;
         sortingAlgorithm->sort(service); //Sort
         delete sortingAlgorithm;         //Dispose
-    } else if(method == 4){
+    } else if (method == 4) {
         auto sortingAlgorithm = new QuickSort;
         sortingAlgorithm->sort(service); //Sort
         delete sortingAlgorithm;         //Dispose
+    }
+}
+
+void searchData(DataService *service, int method, int key) {
+    if (method == 1) {
+        auto searchMethod = new SequentialSearch;
+        DataModel *found = searchMethod->search(service, key);
+        if (found == nullptr) {
+            std::cout << "Data not found" << std::endl;
+        } else {
+            std::cout << "Found record \n" <<
+                      found->key << ".\t" <<
+                      found->name << "\t" <<
+                      found->surname << "\t" <<
+                      found->age << "\t" <<
+                      found->gender << "\t" <<
+                      found->grade << "\t" << std::endl;
+        }
     }
 }

@@ -3,13 +3,14 @@
 //
 
 
-
+#include "../DataModel.h"
+#include "../DataService.h"
 #include <chrono>
-#include "DataService.h"
 
-class InsertionSort {
+class SelectionSort{
 public:
     void sort(DataService *service);
 
 };
+
 
