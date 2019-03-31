@@ -4,7 +4,7 @@
 #include <HashTableSearch.h>
 #include <UnsortedTreeTableSearch.h>
 #include "DataService.h"
-#include "BubbleSort.h"
+#include "sortingAlgorithms/BubbleSort.h"
 #include "sortingAlgorithms/SelectionSort.h"
 #include "sortingAlgorithms/InsertionSort.h"
 #include "sortingAlgorithms/QuickSort.h"

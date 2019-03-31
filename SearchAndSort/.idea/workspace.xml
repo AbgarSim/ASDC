@@ -15,86 +15,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e697cab7-e730-4ada-8fa4-99e42b0acb95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/TableAccess.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TableAccess.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/BubbleSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/DataModel.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataModel.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/DataModel.h" beforeDir="false" afterPath="$PROJECT_DIR$/DataModel.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/DataService.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataService.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/DataService.h" beforeDir="false" afterPath="$PROJECT_DIR$/DataService.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/embed.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/embed.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/intermediate.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/intermediate.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/manifest.rc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/manifest.res" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/manifest.res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/TableAccess.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TableAccess.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/TableAccess.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TableAccess.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/TableAccess.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TableAccess.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/TableAccess.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TableAccess.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/dataFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/BinarySearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BinarySearch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/BinarySearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BinarySearch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/HashTableSearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/HashTableSearch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/HashTableSearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/HashTableSearch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/SequentialSearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/SequentialSearch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/SequentialSearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/SequentialSearch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/HeapSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/HeapSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/HeapSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/HeapSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/InsertionSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/InsertionSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/InsertionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/InsertionSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/QuickSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/QuickSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/QuickSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/QuickSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/SelectionSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/SelectionSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/SelectionSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/SelectionSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/ShellSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/ShellSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TableAccess/sortingAlgorithms/ShellSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/sortingAlgorithms/ShellSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BubbleSort.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BubbleSort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="374">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -339,7 +262,7 @@
       <workItem from="1553967955749" duration="7577000" />
       <workItem from="1554029494824" duration="10370000" />
       <workItem from="1554040027563" duration="2474000" />
-      <workItem from="1554050198403" duration="240000" />
+      <workItem from="1554050198403" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="Added Main Menu to choose sorting and search method">
       <created>1553198543893</created>
@@ -376,22 +299,29 @@
       <option name="project" value="LOCAL" />
       <updated>1554049291693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Renamed folder">
+      <created>1554050461983</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554050461983</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36617000" />
+    <option name="totallyTimeSpent" value="37243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-251" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28602383" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28602383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,7 +347,8 @@
     <MESSAGE value="Added Selection, Insertion, Quick sort. Quick sort is not working yet" />
     <MESSAGE value="Added Binary, HashTable, search, Shell, Heap sort. Adjusted Quick sort and Sequential search" />
     <MESSAGE value="Added UnsortedTreeTableSearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added UnsortedTreeTableSearch" />
+    <MESSAGE value="Renamed folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed folder" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dataFile" />
@@ -453,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SortingAlgorithm.cpp" />
     <entry file="file://$PROJECT_DIR$/SortingAlgorithm.h" />
-    <entry file="file://$PROJECT_DIR$/BubbleSort.cpp">
+    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/BubbleSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
@@ -463,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BubbleSort.h">
+    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/BubbleSort.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -711,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="374">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
