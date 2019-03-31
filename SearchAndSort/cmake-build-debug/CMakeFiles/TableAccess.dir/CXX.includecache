@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/ASDC/SearchAndSort/DataModel.h
+stdio.h
+-
+tchar.h
+-
+string
+-
+fstream
+-
+
+D:/University/ASDC/SearchAndSort/DataService.h
+stdio.h
+-
+tchar.h
+-
+string
+-
+fstream
+-
+vector
+-
+DataModel.h
+D:/University/ASDC/SearchAndSort/DataModel.h
+
+D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.cpp
+UnsortedTreeTableSearch.h
+D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.h
+
+D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.h
+../DataModel.h
+D:/University/ASDC/SearchAndSort/DataModel.h
+../DataService.h
+D:/University/ASDC/SearchAndSort/DataService.h
+chrono
+-
+iostream
+-
+

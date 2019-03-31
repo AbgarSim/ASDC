@@ -1,3 +1,0 @@
-D:/University/ASDC/TableAccess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/University/ASDC/TableAccess/cmake-build-debug/CMakeFiles/TableAccess.dir
-D:/University/ASDC/TableAccess/cmake-build-debug/CMakeFiles/edit_cache.dir
