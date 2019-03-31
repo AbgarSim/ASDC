@@ -2,6 +2,7 @@
 #include <SequentialSearch.h>
 #include <BinarySearch.h>
 #include <HashTableSearch.h>
+#include <UnsortedTreeTableSearch.h>
 #include "DataService.h"
 #include "BubbleSort.h"
 #include "sortingAlgorithms/SelectionSort.h"
@@ -57,6 +58,8 @@ int main() {
         std::cout << "1.Sequential search\n";
         if (service->sorted) {
             std::cout << "2.Binary search\n";
+        } else {
+            std::cout << "2.Unsorted Tree Table search\n";
         }
         std::cout << "3.Hash table search\n";
         std::cin >> searchMethod;
@@ -124,6 +127,20 @@ void searchData(DataService *service, int method, int key) {
     } else if (method == 2) {
         if (service->sorted) {
             auto searchMethod = new BinarySearch;
+            DataModel *found = searchMethod->search(service, key);
+            if (found == nullptr) {
+                std::cout << "Data not found" << std::endl;
+            } else {
+                std::cout << "Found record \n" <<
+                          found->key << ".\t" <<
+                          found->name << "\t" <<
+                          found->surname << "\t" <<
+                          found->age << "\t" <<
+                          found->gender << "\t" <<
+                          found->grade << "\t" << std::endl;
+            }
+        } else {
+            auto searchMethod = new UnsortedTreeTableSearch;
             DataModel *found = searchMethod->search(service, key);
             if (found == nullptr) {
                 std::cout << "Data not found" << std::endl;

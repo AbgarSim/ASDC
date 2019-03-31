@@ -11,6 +11,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/TableAccess.dir/sortingAlgorithms/HeapSort.cpp.obj"
   "CMakeFiles/TableAccess.dir/searchingAlgorithms/BinarySearch.cpp.obj"
   "CMakeFiles/TableAccess.dir/searchingAlgorithms/HashTableSearch.cpp.obj"
+  "CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.obj"
   "TableAccess.pdb"
   "TableAccess.exe"
   "TableAccess.exe.manifest"

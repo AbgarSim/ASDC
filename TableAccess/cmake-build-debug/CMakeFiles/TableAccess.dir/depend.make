@@ -18,6 +18,7 @@ CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataService.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\BinarySearch.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\HashTableSearch.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\SequentialSearch.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\UnsortedTreeTableSearch.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\BubbleSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataService.h
@@ -42,6 +43,11 @@ CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\Data
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\DataService.h
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\searchingAlgorithms\SequentialSearch.cpp
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\searchingAlgorithms\SequentialSearch.h
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: ..\searchingAlgorithms\UnsortedTreeTableSearch.cpp
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: ..\searchingAlgorithms\UnsortedTreeTableSearch.h
 
 CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\DataService.h

@@ -286,6 +286,25 @@ CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.s: cmake_forc
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.s /c D:\University\ASDC\TableAccess\searchingAlgorithms\HashTableSearch.cpp
 <<
 
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj: ..\searchingAlgorithms\UnsortedTreeTableSearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ASDC\TableAccess\searchingAlgorithms\UnsortedTreeTableSearch.cpp
+<<
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ASDC\TableAccess\searchingAlgorithms\UnsortedTreeTableSearch.cpp
+<<
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.s"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.s /c D:\University\ASDC\TableAccess\searchingAlgorithms\UnsortedTreeTableSearch.cpp
+<<
+
 # Object files for target TableAccess
 TableAccess_OBJECTS = \
 "CMakeFiles\TableAccess.dir\main.cpp.obj" \
@@ -299,7 +318,8 @@ TableAccess_OBJECTS = \
 "CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj" \
 "CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj" \
 "CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj" \
-"CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj"
+"CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj" \
+"CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj"
 
 # External object files for target TableAccess
 TableAccess_EXTERNAL_OBJECTS =
@@ -316,9 +336,10 @@ TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\build.make
 TableAccess.exe: CMakeFiles\TableAccess.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable TableAccess.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable TableAccess.exe"
 	"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\TableAccess.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\TableAccess.dir\objects1.rsp @<<
  /out:TableAccess.exe /implib:TableAccess.lib /pdb:D:\University\ASDC\TableAccess\cmake-build-debug\TableAccess.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

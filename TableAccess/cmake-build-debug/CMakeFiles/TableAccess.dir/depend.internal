@@ -19,6 +19,7 @@ CMakeFiles/TableAccess.dir/main.cpp.obj
  ../searchingAlgorithms/BinarySearch.h
  ../searchingAlgorithms/HashTableSearch.h
  ../searchingAlgorithms/SequentialSearch.h
+ ../searchingAlgorithms/UnsortedTreeTableSearch.h
  D:/University/ASDC/TableAccess/BubbleSort.h
  D:/University/ASDC/TableAccess/DataModel.h
  D:/University/ASDC/TableAccess/DataService.h
@@ -43,6 +44,11 @@ CMakeFiles/TableAccess.dir/searchingAlgorithms/SequentialSearch.cpp.obj
  D:/University/ASDC/TableAccess/DataService.h
  D:/University/ASDC/TableAccess/searchingAlgorithms/SequentialSearch.cpp
  D:/University/ASDC/TableAccess/searchingAlgorithms/SequentialSearch.h
+CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.obj
+ D:/University/ASDC/TableAccess/DataModel.h
+ D:/University/ASDC/TableAccess/DataService.h
+ D:/University/ASDC/TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.cpp
+ D:/University/ASDC/TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.h
 CMakeFiles/TableAccess.dir/sortingAlgorithms/HeapSort.cpp.obj
  D:/University/ASDC/TableAccess/DataModel.h
  D:/University/ASDC/TableAccess/DataService.h

@@ -127,6 +127,12 @@
 		<Unit filename="D:/University/ASDC/TableAccess/searchingAlgorithms/SequentialSearch.h">
 			<Option target="TableAccess"/>
 		</Unit>
+		<Unit filename="D:/University/ASDC/TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ASDC/TableAccess/searchingAlgorithms/UnsortedTreeTableSearch.h">
+			<Option target="TableAccess"/>
+		</Unit>
 		<Unit filename="D:/University/ASDC/TableAccess/sortingAlgorithms/HeapSort.cpp">
 			<Option target="TableAccess"/>
 		</Unit>
