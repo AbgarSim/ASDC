@@ -6,8 +6,8 @@
 #define TABLEACCESS_BUBBLESORT_H
 
 
-#include "DataModel.h"
-#include "DataService.h"
+#include "../DataModel.h"
+#include "../DataService.h"
 #include <chrono>
 
 class BubbleSort{
