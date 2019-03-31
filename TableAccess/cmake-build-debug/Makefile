@@ -49,10 +49,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\University\ADSC\TableAccess
+CMAKE_SOURCE_DIR = D:\University\ASDC\TableAccess
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\University\ADSC\TableAccess\cmake-build-debug
+CMAKE_BINARY_DIR = D:\University\ASDC\TableAccess\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -81,9 +81,9 @@ edit_cache\fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\University\ADSC\TableAccess\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\University\ASDC\TableAccess\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -232,6 +232,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+searchingAlgorithms\BinarySearch.obj: searchingAlgorithms\BinarySearch.cpp.obj
+
+.PHONY : searchingAlgorithms\BinarySearch.obj
+
+# target to build an object file
+searchingAlgorithms\BinarySearch.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj
+.PHONY : searchingAlgorithms\BinarySearch.cpp.obj
+
+searchingAlgorithms\BinarySearch.i: searchingAlgorithms\BinarySearch.cpp.i
+
+.PHONY : searchingAlgorithms\BinarySearch.i
+
+# target to preprocess a source file
+searchingAlgorithms\BinarySearch.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.i
+.PHONY : searchingAlgorithms\BinarySearch.cpp.i
+
+searchingAlgorithms\BinarySearch.s: searchingAlgorithms\BinarySearch.cpp.s
+
+.PHONY : searchingAlgorithms\BinarySearch.s
+
+# target to generate assembly for a file
+searchingAlgorithms\BinarySearch.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.s
+.PHONY : searchingAlgorithms\BinarySearch.cpp.s
+
+searchingAlgorithms\HashTableSearch.obj: searchingAlgorithms\HashTableSearch.cpp.obj
+
+.PHONY : searchingAlgorithms\HashTableSearch.obj
+
+# target to build an object file
+searchingAlgorithms\HashTableSearch.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj
+.PHONY : searchingAlgorithms\HashTableSearch.cpp.obj
+
+searchingAlgorithms\HashTableSearch.i: searchingAlgorithms\HashTableSearch.cpp.i
+
+.PHONY : searchingAlgorithms\HashTableSearch.i
+
+# target to preprocess a source file
+searchingAlgorithms\HashTableSearch.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.i
+.PHONY : searchingAlgorithms\HashTableSearch.cpp.i
+
+searchingAlgorithms\HashTableSearch.s: searchingAlgorithms\HashTableSearch.cpp.s
+
+.PHONY : searchingAlgorithms\HashTableSearch.s
+
+# target to generate assembly for a file
+searchingAlgorithms\HashTableSearch.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.s
+.PHONY : searchingAlgorithms\HashTableSearch.cpp.s
+
 searchingAlgorithms\SequentialSearch.obj: searchingAlgorithms\SequentialSearch.cpp.obj
 
 .PHONY : searchingAlgorithms\SequentialSearch.obj
@@ -258,6 +312,33 @@ searchingAlgorithms\SequentialSearch.s: searchingAlgorithms\SequentialSearch.cpp
 searchingAlgorithms\SequentialSearch.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.s
 .PHONY : searchingAlgorithms\SequentialSearch.cpp.s
+
+sortingAlgorithms\HeapSort.obj: sortingAlgorithms\HeapSort.cpp.obj
+
+.PHONY : sortingAlgorithms\HeapSort.obj
+
+# target to build an object file
+sortingAlgorithms\HeapSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj
+.PHONY : sortingAlgorithms\HeapSort.cpp.obj
+
+sortingAlgorithms\HeapSort.i: sortingAlgorithms\HeapSort.cpp.i
+
+.PHONY : sortingAlgorithms\HeapSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\HeapSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.i
+.PHONY : sortingAlgorithms\HeapSort.cpp.i
+
+sortingAlgorithms\HeapSort.s: sortingAlgorithms\HeapSort.cpp.s
+
+.PHONY : sortingAlgorithms\HeapSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\HeapSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.s
+.PHONY : sortingAlgorithms\HeapSort.cpp.s
 
 sortingAlgorithms\InsertionSort.obj: sortingAlgorithms\InsertionSort.cpp.obj
 
@@ -340,6 +421,33 @@ sortingAlgorithms\SelectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.s
 .PHONY : sortingAlgorithms\SelectionSort.cpp.s
 
+sortingAlgorithms\ShellSort.obj: sortingAlgorithms\ShellSort.cpp.obj
+
+.PHONY : sortingAlgorithms\ShellSort.obj
+
+# target to build an object file
+sortingAlgorithms\ShellSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj
+.PHONY : sortingAlgorithms\ShellSort.cpp.obj
+
+sortingAlgorithms\ShellSort.i: sortingAlgorithms\ShellSort.cpp.i
+
+.PHONY : sortingAlgorithms\ShellSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\ShellSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.i
+.PHONY : sortingAlgorithms\ShellSort.cpp.i
+
+sortingAlgorithms\ShellSort.s: sortingAlgorithms\ShellSort.cpp.s
+
+.PHONY : sortingAlgorithms\ShellSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\ShellSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.s
+.PHONY : sortingAlgorithms\ShellSort.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -361,9 +469,18 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... searchingAlgorithms/BinarySearch.obj
+	@echo ... searchingAlgorithms/BinarySearch.i
+	@echo ... searchingAlgorithms/BinarySearch.s
+	@echo ... searchingAlgorithms/HashTableSearch.obj
+	@echo ... searchingAlgorithms/HashTableSearch.i
+	@echo ... searchingAlgorithms/HashTableSearch.s
 	@echo ... searchingAlgorithms/SequentialSearch.obj
 	@echo ... searchingAlgorithms/SequentialSearch.i
 	@echo ... searchingAlgorithms/SequentialSearch.s
+	@echo ... sortingAlgorithms/HeapSort.obj
+	@echo ... sortingAlgorithms/HeapSort.i
+	@echo ... sortingAlgorithms/HeapSort.s
 	@echo ... sortingAlgorithms/InsertionSort.obj
 	@echo ... sortingAlgorithms/InsertionSort.i
 	@echo ... sortingAlgorithms/InsertionSort.s
@@ -373,6 +490,9 @@ help:
 	@echo ... sortingAlgorithms/SelectionSort.obj
 	@echo ... sortingAlgorithms/SelectionSort.i
 	@echo ... sortingAlgorithms/SelectionSort.s
+	@echo ... sortingAlgorithms/ShellSort.obj
+	@echo ... sortingAlgorithms/ShellSort.i
+	@echo ... sortingAlgorithms/ShellSort.s
 .PHONY : help
 
 

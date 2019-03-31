@@ -11,9 +11,10 @@
 
 DataService::DataService() {
 
-    this->fileName = R"(D:\University\ADSC\TableAccess\dataFile.txt)";
+    this->fileName = R"(D:\University\ASDC\TableAccess\dataFile.txt)";
     this->inFile.open(fileName);
 
+    this->sorted = false;
 
     //Check that the file is available and was opened
     if (!inFile) {

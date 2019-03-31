@@ -6,5 +6,5 @@ CXX_FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   -std:c++1
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -ID:\University\ADSC\TableAccess\searchingAlgorithms -ID:\University\ADSC\TableAccess\,\"D:\University\ADSC\TableAccess\sortingAlgorithms\" 
+CXX_INCLUDES = -ID:\University\ASDC\TableAccess\searchingAlgorithms -ID:\University\ASDC\TableAccess\,\"D:\University\ASDC\TableAccess\sortingAlgorithms\" 
 

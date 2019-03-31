@@ -15,19 +15,38 @@ CMakeFiles\TableAccess.dir\DataService.cpp.obj: ..\DataService.h
 
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\BinarySearch.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\HashTableSearch.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\searchingAlgorithms\SequentialSearch.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\BubbleSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\DataService.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\main.cpp
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\sortingAlgorithms\HeapSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\sortingAlgorithms\InsertionSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\sortingAlgorithms\QuickSort.h
 CMakeFiles\TableAccess.dir\main.cpp.obj: ..\sortingAlgorithms\SelectionSort.h
+CMakeFiles\TableAccess.dir\main.cpp.obj: ..\sortingAlgorithms\ShellSort.h
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj: ..\searchingAlgorithms\BinarySearch.cpp
+CMakeFiles\TableAccess.dir\searchingAlgorithms\BinarySearch.cpp.obj: ..\searchingAlgorithms\BinarySearch.h
+
+CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj: ..\searchingAlgorithms\HashTableSearch.cpp
+CMakeFiles\TableAccess.dir\searchingAlgorithms\HashTableSearch.cpp.obj: ..\searchingAlgorithms\HashTableSearch.h
 
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\DataService.h
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\searchingAlgorithms\SequentialSearch.cpp
 CMakeFiles\TableAccess.dir\searchingAlgorithms\SequentialSearch.cpp.obj: ..\searchingAlgorithms\SequentialSearch.h
+
+CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\sortingAlgorithms\HeapSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\HeapSort.cpp.obj: ..\sortingAlgorithms\HeapSort.h
 
 CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj: ..\DataModel.h
 CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj: ..\DataService.h
@@ -43,4 +62,9 @@ CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: ..\DataModel
 CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: ..\DataService.h
 CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: ..\sortingAlgorithms\SelectionSort.cpp
 CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: ..\sortingAlgorithms\SelectionSort.h
+
+CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj: ..\DataModel.h
+CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj: ..\DataService.h
+CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj: ..\sortingAlgorithms\ShellSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\ShellSort.cpp.obj: ..\sortingAlgorithms\ShellSort.h
 

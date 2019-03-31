@@ -1,5 +1,5 @@
 //
-// Created by user on 30.03.2019.
+// Created by user on 31.03.2019.
 //
 
 #include "../DataModel.h"
@@ -7,12 +7,10 @@
 #include <chrono>
 #include <iostream>
 
-class QuickSort {
+
+class ShellSort {
 public:
     void sort(DataService *service);
-
-private:
-    void quickSort(DataModel* array[], int left, int right);
-
 };
+
 

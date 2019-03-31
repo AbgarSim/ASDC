@@ -7,16 +7,16 @@
 void QuickSort::sort(DataService *service) {
     std::cout << "Prepare bubble sort" << std::endl;
 
-    DataModel* unsorted[100];
+    DataModel *unsorted[100];
     int n = service->recordCount;
-    for(int i = 0; i< n; i++){
+    for (int i = 0; i < n; i++) {
         unsorted[i] = service->dataArray[i];
     }
 
     auto start = std::chrono::high_resolution_clock::now();
     std::cout << "Start Quick sort for " << n << " records" << std::endl;
 
-    quickSort(unsorted, 0, sizeof(&unsorted)/ sizeof(&unsorted[0]));
+    quickSort(unsorted, 0, n-1);
 
     auto end = std::chrono::high_resolution_clock::now();
     std::cout << "Done Quick sort" << std::endl;
@@ -24,32 +24,60 @@ void QuickSort::sort(DataService *service) {
     auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
     std::cout << "Duration " << duration.count() << "msc" << std::endl;
 
-    for(int i = 0; i< n; i++){
+    for (int i = 0; i < n; i++) {
         service->dataArray[i] = unsorted[i];
     }
 }
 
-void QuickSort::quickSort(DataModel* array[], int lowerTreshHold, int higherTreshHold) {
+void QuickSort::quickSort(DataModel* array[], int left, int right) {
 
-    if(lowerTreshHold < higherTreshHold){
+    int i = left, j = right;
 
-        DataModel* pivot = array[higherTreshHold];    // pivot
+    DataModel* tmp;
+    DataModel* pivot = array[(left + right) / 2];
+
+    /* partition */
+    while (i <= j) {
+        while (array[i]->key < pivot->key)
+            i++;
+        while (array[j]->key > pivot->key)
+            j--;
+        if (i <= j) {
+            tmp = array[i];
+            array[i] = array[j];
+            array[j] = tmp;
+            i++;
+            j--;
+        }
+    };
+
+    /* recursion */
+    if (left < j)
+        quickSort(array, left, j);
+    if (i < right)
+        quickSort(array, i, right);
+
+}
+
+/*void QuickSort::quickSort(DataModel *array[], int lowerTreshHold, int higherTreshHold) {
+
+    if (lowerTreshHold < higherTreshHold) {
+
+        DataModel *pivot = array[higherTreshHold];    // pivot
         int i = (lowerTreshHold - 1);  // Index of smaller element
 
-        for (int j = lowerTreshHold; j <= higherTreshHold- 1; j++)
-        {
+        for (int j = lowerTreshHold; j <= higherTreshHold - 1; j++) {
             // If current element is smaller than or
             // equal to pivot
-            if (array[j]->key <= pivot->key)
-            {
+            if (array[j]->key <= pivot->key) {
                 i++;    // increment index of smaller element
                 auto *temp = array[i];
                 array[i] = array[j];
                 array[j] = temp;
             }
         }
-        auto *temp = array[i+1];
-        array[i+1] = array[higherTreshHold];
+        auto *temp = array[i + 1];
+        array[i + 1] = array[higherTreshHold];
         array[higherTreshHold] = temp;
 
         int pivotIndex = i + 1;
@@ -58,3 +86,4 @@ void QuickSort::quickSort(DataModel* array[], int lowerTreshHold, int higherTres
         quickSort(array, pivotIndex + 1, higherTreshHold);
     }
 }
+*/

@@ -16,17 +16,21 @@ class DataService {
 public:
 
     DataService();
+
     ~DataService();
 
     std::ifstream inFile;
     std::string fileName;
 
-    std::vector<DataModel> people;
-    DataModel* dataArray[5];
+
+    bool sorted;
     int recordCount;
+    std::vector<DataModel> people;
+    DataModel *dataArray[100];
 
 
     void readDataFromFile();
+
     void printData();
 
 };
