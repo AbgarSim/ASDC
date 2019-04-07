@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/TableAccess.dir/main.cpp.obj"
   "CMakeFiles/TableAccess.dir/DataService.cpp.obj"
   "CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
-  "CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
+  "CMakeFiles/TableAccess.dir/sortingAlgorithms/BubbleSort.cpp.obj"
   "CMakeFiles/TableAccess.dir/sortingAlgorithms/SelectionSort.cpp.obj"
   "CMakeFiles/TableAccess.dir/sortingAlgorithms/InsertionSort.cpp.obj"
   "CMakeFiles/TableAccess.dir/sortingAlgorithms/QuickSort.cpp.obj"

@@ -115,23 +115,23 @@ CMakeFiles\TableAccess.dir\DataModel.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\DataModel.cpp.s /c D:\University\ASDC\SearchAndSort\DataModel.cpp
 <<
 
-CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
-CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj: ..\BubbleSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ASDC\SearchAndSort\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
+CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj: ..\sortingAlgorithms\BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\University\ASDC\SearchAndSort\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TableAccess.dir/sortingAlgorithms/BubbleSort.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\BubbleSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ASDC\SearchAndSort\BubbleSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj /FdCMakeFiles\TableAccess.dir\ /FS -c D:\University\ASDC\SearchAndSort\sortingAlgorithms\BubbleSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\BubbleSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/BubbleSort.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\BubbleSort.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ASDC\SearchAndSort\BubbleSort.cpp
+CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TableAccess.dir/sortingAlgorithms/BubbleSort.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\University\ASDC\SearchAndSort\sortingAlgorithms\BubbleSort.cpp
 <<
 
-CMakeFiles\TableAccess.dir\BubbleSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/BubbleSort.cpp.s"
+CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TableAccess.dir/sortingAlgorithms/BubbleSort.cpp.s"
 	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\BubbleSort.cpp.s /c D:\University\ASDC\SearchAndSort\BubbleSort.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.s /c D:\University\ASDC\SearchAndSort\sortingAlgorithms\BubbleSort.cpp
 <<
 
 CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj: CMakeFiles\TableAccess.dir\flags.make
@@ -310,7 +310,7 @@ TableAccess_OBJECTS = \
 "CMakeFiles\TableAccess.dir\main.cpp.obj" \
 "CMakeFiles\TableAccess.dir\DataService.cpp.obj" \
 "CMakeFiles\TableAccess.dir\DataModel.cpp.obj" \
-"CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj" \
+"CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj" \
 "CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj" \
 "CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj" \
 "CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj" \
@@ -327,7 +327,7 @@ TableAccess_EXTERNAL_OBJECTS =
 TableAccess.exe: CMakeFiles\TableAccess.dir\main.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataService.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\DataModel.cpp.obj
-TableAccess.exe: CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj
+TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\SelectionSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\InsertionSort.cpp.obj
 TableAccess.exe: CMakeFiles\TableAccess.dir\sortingAlgorithms\QuickSort.cpp.obj

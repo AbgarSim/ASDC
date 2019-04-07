@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/University/ASDC/SearchAndSort/BubbleSort.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/BubbleSort.cpp.obj"
   "D:/University/ASDC/SearchAndSort/DataModel.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/DataModel.cpp.obj"
   "D:/University/ASDC/SearchAndSort/DataService.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/DataService.cpp.obj"
   "D:/University/ASDC/SearchAndSort/main.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/main.cpp.obj"
@@ -12,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/University/ASDC/SearchAndSort/searchingAlgorithms/HashTableSearch.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/searchingAlgorithms/HashTableSearch.cpp.obj"
   "D:/University/ASDC/SearchAndSort/searchingAlgorithms/SequentialSearch.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/searchingAlgorithms/SequentialSearch.cpp.obj"
   "D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/searchingAlgorithms/UnsortedTreeTableSearch.cpp.obj"
+  "D:/University/ASDC/SearchAndSort/sortingAlgorithms/BubbleSort.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/sortingAlgorithms/BubbleSort.cpp.obj"
   "D:/University/ASDC/SearchAndSort/sortingAlgorithms/HeapSort.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/sortingAlgorithms/HeapSort.cpp.obj"
   "D:/University/ASDC/SearchAndSort/sortingAlgorithms/InsertionSort.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/sortingAlgorithms/InsertionSort.cpp.obj"
   "D:/University/ASDC/SearchAndSort/sortingAlgorithms/QuickSort.cpp" "D:/University/ASDC/SearchAndSort/cmake-build-debug/CMakeFiles/TableAccess.dir/sortingAlgorithms/QuickSort.cpp.obj"

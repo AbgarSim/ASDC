@@ -15,9 +15,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e697cab7-e730-4ada-8fa4-99e42b0acb95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BubbleSort.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BubbleSort.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort.h" beforeDir="false" afterPath="$PROJECT_DIR$/searchingAlgorithms/BubbleSort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TableAccess.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TableAccess.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TableAccess.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dataFile.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,20 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dataFile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -147,7 +154,6 @@
         <option value="$PROJECT_DIR$/MainMenu.cpp" />
         <option value="$PROJECT_DIR$/DataModel.h" />
         <option value="$PROJECT_DIR$/DataModel.cpp" />
-        <option value="$PROJECT_DIR$/dataFile.txt" />
         <option value="$PROJECT_DIR$/SelectionSort.cpp" />
         <option value="$PROJECT_DIR$/SortingAlgorithm.cpp" />
         <option value="$PROJECT_DIR$/SortingAlgorithm.h" />
@@ -180,14 +186,15 @@
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/DataService.cpp" />
         <option value="$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp" />
+        <option value="$PROJECT_DIR$/dataFile.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1945" />
-    <option name="y" value="-252" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-251" />
     <option name="width" value="1936" />
-    <option name="height" value="1046" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,6 +215,11 @@
               <item name="SearchAndSort" type="462c0819:PsiDirectoryNode" />
               <item name="searchingAlgorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TableAccess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SearchAndSort" type="462c0819:PsiDirectoryNode" />
+              <item name="sortingAlgorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -220,6 +232,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\University\ASDC\SearchAndSort\sortingAlgorithms" />
+      <recent name="D:\University\ASDC\SearchAndSort\searchingAlgorithms" />
       <recent name="D:\University\ADSC\TableAccess\sortingAlgorithms" />
       <recent name="D:\University\ADSC\TableAccess" />
     </key>
@@ -262,7 +276,10 @@
       <workItem from="1553967955749" duration="7577000" />
       <workItem from="1554029494824" duration="10370000" />
       <workItem from="1554040027563" duration="2474000" />
-      <workItem from="1554050198403" duration="866000" />
+      <workItem from="1554050198403" duration="1538000" />
+      <workItem from="1554487353386" duration="3000" />
+      <workItem from="1554488231276" duration="4000" />
+      <workItem from="1554648659264" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="Added Main Menu to choose sorting and search method">
       <created>1553198543893</created>
@@ -306,22 +323,36 @@
       <option name="project" value="LOCAL" />
       <updated>1554050461983</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Moved Bubble sort">
+      <created>1554053266655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554053266655</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Moved Bubble sort again">
+      <created>1554053321369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554053321369</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37243000" />
+    <option name="totallyTimeSpent" value="39075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-251" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16151386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28602383" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28602383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,7 +362,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.19176598" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.14626218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,7 +379,9 @@
     <MESSAGE value="Added Binary, HashTable, search, Shell, Heap sort. Adjusted Quick sort and Sequential search" />
     <MESSAGE value="Added UnsortedTreeTableSearch" />
     <MESSAGE value="Renamed folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed folder" />
+    <MESSAGE value="Moved Bubble sort" />
+    <MESSAGE value="Moved Bubble sort again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved Bubble sort again" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dataFile" />
@@ -384,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SortingAlgorithm.cpp" />
     <entry file="file://$PROJECT_DIR$/SortingAlgorithm.h" />
-    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/BubbleSort.cpp">
+    <entry file="file://$PROJECT_DIR$/sortingAlgorithms/BubbleSort.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
@@ -394,7 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/BubbleSort.h">
+    <entry file="file://$PROJECT_DIR$/sortingAlgorithms/BubbleSort.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -570,10 +603,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataFile.txt">
+    <entry file="file://$PROJECT_DIR$/DataService.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="221">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding>
+            <element signature="e#62#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -582,6 +618,16 @@
         <state>
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+          <folding>
+            <element signature="e#42#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -620,30 +666,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataService.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
-          <folding>
-            <element signature="e#62#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
-          <folding>
-            <element signature="e#42#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchingAlgorithms/UnsortedTreeTableSearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>

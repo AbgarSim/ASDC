@@ -88,12 +88,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/University/ASDC/SearchAndSort/BubbleSort.cpp">
-			<Option target="TableAccess"/>
-		</Unit>
-		<Unit filename="D:/University/ASDC/SearchAndSort/BubbleSort.h">
-			<Option target="TableAccess"/>
-		</Unit>
 		<Unit filename="D:/University/ASDC/SearchAndSort/DataModel.cpp">
 			<Option target="TableAccess"/>
 		</Unit>
@@ -131,6 +125,12 @@
 			<Option target="TableAccess"/>
 		</Unit>
 		<Unit filename="D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.h">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ASDC/SearchAndSort/sortingAlgorithms/BubbleSort.cpp">
+			<Option target="TableAccess"/>
+		</Unit>
+		<Unit filename="D:/University/ASDC/SearchAndSort/sortingAlgorithms/BubbleSort.h">
 			<Option target="TableAccess"/>
 		</Unit>
 		<Unit filename="D:/University/ASDC/SearchAndSort/sortingAlgorithms/HeapSort.cpp">

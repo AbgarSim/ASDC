@@ -124,33 +124,6 @@ TableAccess\fast:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\build
 .PHONY : TableAccess\fast
 
-BubbleSort.obj: BubbleSort.cpp.obj
-
-.PHONY : BubbleSort.obj
-
-# target to build an object file
-BubbleSort.cpp.obj:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.obj
-.PHONY : BubbleSort.cpp.obj
-
-BubbleSort.i: BubbleSort.cpp.i
-
-.PHONY : BubbleSort.i
-
-# target to preprocess a source file
-BubbleSort.cpp.i:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.i
-.PHONY : BubbleSort.cpp.i
-
-BubbleSort.s: BubbleSort.cpp.s
-
-.PHONY : BubbleSort.s
-
-# target to generate assembly for a file
-BubbleSort.cpp.s:
-	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\BubbleSort.cpp.s
-.PHONY : BubbleSort.cpp.s
-
 DataModel.obj: DataModel.cpp.obj
 
 .PHONY : DataModel.obj
@@ -340,6 +313,33 @@ searchingAlgorithms\UnsortedTreeTableSearch.cpp.s:
 	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\searchingAlgorithms\UnsortedTreeTableSearch.cpp.s
 .PHONY : searchingAlgorithms\UnsortedTreeTableSearch.cpp.s
 
+sortingAlgorithms\BubbleSort.obj: sortingAlgorithms\BubbleSort.cpp.obj
+
+.PHONY : sortingAlgorithms\BubbleSort.obj
+
+# target to build an object file
+sortingAlgorithms\BubbleSort.cpp.obj:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.obj
+.PHONY : sortingAlgorithms\BubbleSort.cpp.obj
+
+sortingAlgorithms\BubbleSort.i: sortingAlgorithms\BubbleSort.cpp.i
+
+.PHONY : sortingAlgorithms\BubbleSort.i
+
+# target to preprocess a source file
+sortingAlgorithms\BubbleSort.cpp.i:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.i
+.PHONY : sortingAlgorithms\BubbleSort.cpp.i
+
+sortingAlgorithms\BubbleSort.s: sortingAlgorithms\BubbleSort.cpp.s
+
+.PHONY : sortingAlgorithms\BubbleSort.s
+
+# target to generate assembly for a file
+sortingAlgorithms\BubbleSort.cpp.s:
+	$(MAKE) -f CMakeFiles\TableAccess.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\TableAccess.dir\sortingAlgorithms\BubbleSort.cpp.s
+.PHONY : sortingAlgorithms\BubbleSort.cpp.s
+
 sortingAlgorithms\HeapSort.obj: sortingAlgorithms\HeapSort.cpp.obj
 
 .PHONY : sortingAlgorithms\HeapSort.obj
@@ -484,9 +484,6 @@ help:
 	@echo ... rebuild_cache
 	@echo ... TableAccess
 	@echo ... edit_cache
-	@echo ... BubbleSort.obj
-	@echo ... BubbleSort.i
-	@echo ... BubbleSort.s
 	@echo ... DataModel.obj
 	@echo ... DataModel.i
 	@echo ... DataModel.s
@@ -508,6 +505,9 @@ help:
 	@echo ... searchingAlgorithms/UnsortedTreeTableSearch.obj
 	@echo ... searchingAlgorithms/UnsortedTreeTableSearch.i
 	@echo ... searchingAlgorithms/UnsortedTreeTableSearch.s
+	@echo ... sortingAlgorithms/BubbleSort.obj
+	@echo ... sortingAlgorithms/BubbleSort.i
+	@echo ... sortingAlgorithms/BubbleSort.s
 	@echo ... sortingAlgorithms/HeapSort.obj
 	@echo ... sortingAlgorithms/HeapSort.i
 	@echo ... sortingAlgorithms/HeapSort.s
