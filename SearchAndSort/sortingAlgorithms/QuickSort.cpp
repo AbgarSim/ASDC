@@ -5,7 +5,7 @@
 #include "QuickSort.h"
 
 void QuickSort::sort(DataService *service) {
-    std::cout << "Prepare bubble sort" << std::endl;
+    std::cout << "Prepare Quick sort" << std::endl;
 
     DataModel *unsorted[100];
     int n = service->recordCount;
@@ -56,34 +56,4 @@ void QuickSort::quickSort(DataModel* array[], int left, int right) {
         quickSort(array, left, j);
     if (i < right)
         quickSort(array, i, right);
-
 }
-
-/*void QuickSort::quickSort(DataModel *array[], int lowerTreshHold, int higherTreshHold) {
-
-    if (lowerTreshHold < higherTreshHold) {
-
-        DataModel *pivot = array[higherTreshHold];    // pivot
-        int i = (lowerTreshHold - 1);  // Index of smaller element
-
-        for (int j = lowerTreshHold; j <= higherTreshHold - 1; j++) {
-            // If current element is smaller than or
-            // equal to pivot
-            if (array[j]->key <= pivot->key) {
-                i++;    // increment index of smaller element
-                auto *temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-            }
-        }
-        auto *temp = array[i + 1];
-        array[i + 1] = array[higherTreshHold];
-        array[higherTreshHold] = temp;
-
-        int pivotIndex = i + 1;
-
-        quickSort(array, lowerTreshHold, pivotIndex - 1);
-        quickSort(array, pivotIndex + 1, higherTreshHold);
-    }
-}
-*/

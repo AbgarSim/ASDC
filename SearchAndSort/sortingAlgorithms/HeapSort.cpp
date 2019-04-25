@@ -50,7 +50,6 @@ void HeapSort::heapify(DataModel *array[], int left, int right) {
         array[largest] = temp;
         heapify(array, left, largest);
     }
-
 }
 
 void HeapSort::heapSort(DataModel *array[], int arrayLength) {

@@ -8,7 +8,7 @@
 
 void SelectionSort::sort(DataService *service) {
 
-    std::cout << "Prepare bubble sort" << std::endl;
+    std::cout << "Prepare selection sort" << std::endl;
 
     DataModel* unsorted[100];
     int n = service->recordCount;

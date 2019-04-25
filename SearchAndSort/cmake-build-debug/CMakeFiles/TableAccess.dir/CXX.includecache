@@ -30,11 +30,11 @@ vector
 DataModel.h
 D:/University/ASDC/SearchAndSort/DataModel.h
 
-D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.cpp
-UnsortedTreeTableSearch.h
-D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.h
+D:/University/ASDC/SearchAndSort/sortingAlgorithms/HeapSort.cpp
+HeapSort.h
+D:/University/ASDC/SearchAndSort/sortingAlgorithms/HeapSort.h
 
-D:/University/ASDC/SearchAndSort/searchingAlgorithms/UnsortedTreeTableSearch.h
+D:/University/ASDC/SearchAndSort/sortingAlgorithms/HeapSort.h
 ../DataModel.h
 D:/University/ASDC/SearchAndSort/DataModel.h
 ../DataService.h

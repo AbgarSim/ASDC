@@ -67,7 +67,6 @@ DataModel *UnsortedTreeTableSearch::search(DataService *service, int searchFor) 
         return foundElem;
     else
         return nullptr;
-
 }
 
 void UnsortedTreeTableSearch::populateTreeTableStruct(DataModel *array[], int recordCount) {
@@ -127,6 +126,5 @@ void UnsortedTreeTableSearch::populateTreeTableStruct(DataModel *array[], int re
             }
 
         }
-
     }
 }
